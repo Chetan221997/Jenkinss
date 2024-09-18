@@ -1,7 +1,9 @@
 
 public class Jenk {
+	
 
-	public static void main(String[] args) {
+	@Test
+	public void jenkTest() {
 		// TODO Auto-generated method stub
 
 		System.out.println("jenkins");
